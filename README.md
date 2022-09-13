@@ -1,3 +1,3 @@
 # RepositoryOfTheCode
 
-Ici, vous trouverez les balbutiements de mon itineraire en programmation.
+Ici, vous trouverez les balbutiements de mon itinéraire en programmation.
